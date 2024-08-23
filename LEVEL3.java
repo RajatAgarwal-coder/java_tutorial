@@ -3,6 +3,7 @@ import java.util.Scanner;  //  Used to take input from user
 
 public class LEVEL3 {
 
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         
         // Variable Declaration
